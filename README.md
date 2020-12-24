@@ -1,6 +1,6 @@
 # 基于网易云音乐API实现PC端音乐网站
-#### 项目效果视频(未显示则是在审核中)
-[哔哩哔哩](https://www.bilibili.com/video/BV1rA411s7oE/)
+#### 项目效果视频
+[哔哩哔哩](https://www.bilibili.com/video/BV1rA411s7oE/)(未显示则是在审核中)
 
 #### 介绍
 采用VUE及网易云音乐 Node.js API service实现，网站风格参考了各平台，感谢[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)！
