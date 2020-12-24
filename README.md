@@ -2,36 +2,29 @@
 
 #### 介绍
 采用VUE及网易云音乐 Node.js API service实现，网站风格参考了各平台，感谢[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)！
-一个人完成一个完整的网站 针对太累了！ :joy:  码农不易，hhhh~
+:joy:  码农不易，hhhh~
 
 
 #### 安装教程
-#clone下代码，安装依赖
-1.  npm install
-2.  npm run server
-#clone下服务端代码，安装依赖
-3.  npm install
-4、 npm run start
+1、clone下vue代码后，安装依赖 npm install ，运行服务npm run serve 
+
+2、clone下上面网易云音乐NodeJs代码后，安装依赖 npm install ，运行服务npm run start
 
 #### 使用说明
+若使用中，接口请求无数据，请查看前端请求接口与服务端提供的路径端口号是否一致，为了避免冲突，我修改了端口号
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 稍微拿的出手的功能
+1、播放条区域，交互逻辑基本参考网易云音乐
 
-#### 参与贡献
+2、mv视频，采用了videojs，添加了视频清晰度功能
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### 结束语
+-实现了网易云音乐PC端一部分功能
+-代码的优化及功能还有很大部分空间需要改进
+-此版本也是公开的版本，若有新的进展，我会把代码更新到此版本
+-关于项目的不足可以在下方评论，我会逐渐改进
 
+####仅供学习使用 不作任何商业用途
 
-#### 特技
+####项目效果图
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
