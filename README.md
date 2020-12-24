@@ -2,16 +2,16 @@
 
 #### 介绍
 采用VUE及网易云音乐 Node.js API service实现，网站风格参考了各平台，感谢[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)！
-
-#### 软件架构
-软件架构说明
+一个人完成一个完整的网站 针对太累了！ :joy:  码农不易，hhhh~
 
 
 #### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#clone下代码，安装依赖
+1.  npm install
+2.  npm run server
+#clone下服务端代码，安装依赖
+3.  npm install
+4、 npm run start
 
 #### 使用说明
 
