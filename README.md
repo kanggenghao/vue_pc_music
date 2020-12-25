@@ -33,6 +33,13 @@
 
 #### 项目效果图
 
-### 首页
+##### 首页
 ![首页](https://images.gitee.com/uploads/images/2020/1224/163430_c2da37db_5120464.jpeg "QQ截图20201224152145.jpg")
+
+##### 排行榜
+| ![排行榜](https://images.gitee.com/uploads/images/2020/1225/092746_2e140041_5120464.jpeg "2.jpg")  | ![排行榜](https://images.gitee.com/uploads/images/2020/1225/092814_52737571_5120464.jpeg "3.jpg")  |
+|---|---|
+
+
+
 
