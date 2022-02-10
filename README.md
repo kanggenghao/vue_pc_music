@@ -2,7 +2,7 @@
 
 
 
-####  **=======》 [网易云音乐PC端音乐Vue 3.0 改版](https://gitee.com/trtst/vue3.x_music)《=======** 
+####  **=======》 [网易云音乐PC端音乐Vue 3.0 改版](https://gitee.com/trtst/vue3-music)《=======** 
 
 
 
