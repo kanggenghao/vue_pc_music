@@ -5,7 +5,7 @@ import { Message } from 'element-ui'
 const instance = axios.create({
     time: 1000 * 60,
     withCredentials: true,
-    baseURL: 'http://localhost:3030'
+    baseURL: 'http://localhost:3000'
 })
 instance.defaults.withCredentials = true
 instance.defaults.validateStatus = function () {
